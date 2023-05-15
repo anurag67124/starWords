@@ -11,7 +11,7 @@ import LowBarGraph from "./LowBarGraph";
 // import {} from "@heroicons/react/solid"
 
 const GraphPage = () => {
-    return (
+    return ( 
         <div className="relative overflow-hidden">
             <Link href="/">
             <div className="border-b-2   h-14 fixed top-0 left-0 px-3 flex">
