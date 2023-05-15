@@ -6,7 +6,7 @@ import BarChart from "./BarChart";
 import PieChart from "./PieChart";
 import Tabs from "./Tabs";
 import Image from 'next/image';
-import Link from "next/Link"
+import Link from "next/link"
 import LowBarGraph from "./LowBarGraph";
 // import {} from "@heroicons/react/solid"
 
